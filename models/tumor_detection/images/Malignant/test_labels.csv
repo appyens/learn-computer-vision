@@ -1,0 +1,12 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+Y166.JPG,253,291,malignant_tumor,64,25,104,58
+Y167.JPG,272,350,malignant_tumor,75,32,184,161
+Y168.jpg,263,300,malignant_tumor,80,148,135,255
+Y169.jpg,254,325,malignant_tumor,110,25,183,125
+Y170.JPG,290,355,malignant_tumor,129,135,190,193
+Y180.jpg,467,586,malignant_tumor,207,107,406,320
+Y180.jpg,467,586,malignant_tumor,43,119,122,220
+Y181.jpg,310,380,malignant_tumor,49,61,141,152
+Y182.JPG,273,318,malignant_tumor,40,176,126,277
+Y183.jpg,300,347,malignant_tumor,167,178,252,269
+Y184.JPG,189,173,malignant_tumor,95,127,133,166

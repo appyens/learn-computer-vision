@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Malignant</folder>
+	<filename>Y155.JPG</filename>
+	<path>/media/appyens/Home/Master/Code/Languages/Python/Computer_Vision/learn-computer-vision/models/tumor_detection/Malignant/train/Y155.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>355</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malignant_tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>131</ymin>
+			<xmax>268</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>
